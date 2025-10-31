@@ -14,13 +14,15 @@ public class aula002 {
         int idade = 20;
          long numeroGrande = 100000;
         double salaroDouble = 2000;
-        float salarioFloat = 2500;
-        byte idadeByte = 10;
+        float salarioFloat = 2500.0f;
+        byte idadeByte = 127;
         short idadeShort = 10;
         char letra = 'A';
         boolean verdadeiro = true;
         boolean falso = false;
-        System.out.println("A idade é: "+idade);
+        String nome = "João";
+        System.out.println("Olá "+nome);
+        System.out.println("A idade é: "+idade+" anos");
         System.out.println("Número grande: "+numeroGrande);
         System.out.println("Salário double: "+salaroDouble);
         System.out.println("Salário float: "+salarioFloat);
