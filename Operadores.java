@@ -1,5 +1,5 @@
 // Operadores aritiméticos
-public class aula003 {
+public class Operadores {
 // + - * / %
 // Tomando cuidade com a contatenação de Strings
     public static void main(String[] args){

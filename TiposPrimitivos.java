@@ -9,7 +9,7 @@
     short: para números inteiros pequenos (ex: 1000, 2000)
     byte: para números inteiros muito pequenos (ex: 10, 20)     
      */
-public class aula002 {
+public class TiposPrimitivos {
     public static void main(String[] args) {
         int idade = 20;
          long numeroGrande = 100000;
