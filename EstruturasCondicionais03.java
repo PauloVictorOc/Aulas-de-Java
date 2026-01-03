@@ -9,11 +9,3 @@ public class EstruturasCondicionais03 {
         System.out.println(resultado);
     }
 }
-/* OutroModoDeCondição - IF e ELSE
-    if(salario > 5000){
-        resultado = mensagemDoar;
-        }
-    else(salario < 5000){
-        resultado = mensagemNDoar;
-        }
-*/
