@@ -9,3 +9,12 @@ public class EstruturasCondicionais03 {
         System.out.println(resultado);
     }
 }
+/* Outro metodo de Inserir
+ double salario = 4000;
+ if (salario > 5000){
+    System.out.println("Doação disponivel");
+ }
+ else{
+    System.out.println("Doação indisponivel");
+ }
+ */
