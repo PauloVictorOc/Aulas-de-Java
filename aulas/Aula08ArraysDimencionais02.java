@@ -11,9 +11,9 @@ public class Aula08ArraysDimencionais02 {
 
         int[][] arrayInt2 = {{0,0},{1,2,3},{1,2,3,4,5,6}};
 
-        for (int[] arraBase: arrayInt2){
+        for (int[] arrayBase: arrayInt2){
             System.out.println("\n------");
-            for (int num:arraBase){
+            for (int num:arrayBase){
                 System.out.print(num + "");
             }
         }
