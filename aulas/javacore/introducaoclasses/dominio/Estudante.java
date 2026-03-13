@@ -1,4 +1,4 @@
-package javacore.intorducaoclasses;
+package javacore.introducaoclasses.dominio;
 
 public class Estudante {
     public String nome = "Gon";

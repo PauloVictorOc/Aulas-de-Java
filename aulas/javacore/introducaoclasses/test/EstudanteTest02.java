@@ -1,6 +1,6 @@
-package javacore.intorducaoclasses.test;
+package javacore.introducaoclasses.test;
 
-import javacore.intorducaoclasses.Estudante;
+import javacore.introducaoclasses.dominio.Estudante;
 
 public class EstudanteTest02 {
     public static void main(String[] args) {
