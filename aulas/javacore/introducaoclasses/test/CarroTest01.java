@@ -14,7 +14,7 @@ public class CarroTest01 {
         carro1.cor= "Azul Bebe";
         carro1.ano= 2006;
 
-        //carro1 = carro2; as informações do carro 1 são dispersadas e passam a ser a mesma que a segunda e vice versa
+        //carro1 = carro2; as informações do carro 1 são dispersadas e passam a ser a mesma que a segunda ou vice versa
 
         carro2.nome= "Impala";
         carro2.marca= "Chevrolet";
